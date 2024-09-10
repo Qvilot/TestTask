@@ -1,7 +1,0 @@
-demo\com\demoproject\repository\ModelRepository.class
-demo\com\demoproject\controller\DeviceController.class
-demo\com\demoproject\DemoprojectApplication.class
-demo\com\demoproject\entity\Model.class
-demo\com\demoproject\service\DeviceService.class
-demo\com\demoproject\repository\DeviceTypeRepository.class
-demo\com\demoproject\entity\DeviceType.class
